@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+* Create your own class inherited from `Basic::Api::Client`, implement your own methods
+* Create requests inherited from `Basic::Api::Client::Requests::Base`
+* Create form inherited from `Basic::Api::Client::Structs::Base`
+* Create response scheme from `Basic::Api::Client::Structs::Base`
 
 ## Development
 
